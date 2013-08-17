@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="track.css">
+</head>
+
+<body>
+	<script src="track.js"></script>
+	<script src="Chart.js"></script>
+	
+	<div id="pieArea">
+		<canvas id="myChart" width="200" height="200"></canvas>
+	</div>
+	
+	<div id="area">
+		<textarea name="display" id="output" rows="8" cols="35"></textarea>
+	</div>
+	
+	<div id="fields">
+		Calorie Limit: <input type="text" name="calLimit" id="limit"><br><br>
+		Calorie Input: <input type="text" name="calInput" id="input"><br><br>
+		<input type="button" name="submit" id="load" value="Calculate" onclick="calAmount('limit', 'input', 'output');
+																				pieData('myChart', 'limit', 'input');">
+	</div>
+	
+</body>
+
+</html>

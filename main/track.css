@@ -1,0 +1,22 @@
+body {
+	background-color: #BBD7F4;
+}
+
+textarea {
+	resize: none;
+}
+
+#area {
+	float: right;
+	padding-right: 180px;
+}
+
+#pieArea {
+	float: right;
+	padding-right: 350px;
+}
+
+#fields {
+	float: left;
+	padding: 10px, 10px, 10px, 10px;
+}
