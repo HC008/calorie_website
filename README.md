@@ -1,4 +1,11 @@
-calorie_website
-===============
+#Calorie_website
 
-simple web version of calorie tracker
+
+Simple web version of calorie tracker which utilizes HTML, CSS, and JavaScript. The pie graph utilizes
+a JavaScript file downloaded from http://www.chartjs.org/
+
+
+#Screenshot
+
+![alt tag](https://raw.github.com/HC008/Calorie/master/screenshot.jpg)
+
