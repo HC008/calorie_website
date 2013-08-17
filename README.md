@@ -7,5 +7,5 @@ a JavaScript file downloaded from http://www.chartjs.org/
 
 #Screenshot
 
-![alt tag](https://raw.github.com/HC008/Calorie/master/screenshot.jpg)
+![alt tag](https://raw.github.com/HC008/Calorie/master/screenshot.png)
 
